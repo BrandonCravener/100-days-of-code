@@ -3,7 +3,20 @@
 
 **Today's Progress**: Completed built in tutorial, added input to change other folders name.
 
-**Thoughts** Need to finish folder name checking for reserved characters and need to add tutorial.
+**Thoughts** Need to finish folder name checking for reserved characters and need to add more to the tutorial.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 1: June 10th, 2017
+
+**Today's Progress**: Added interchangeable themes, and fixed other folder name validation.
+
+**Thoughts** Getting closer to releasing the full GUI version.
+
+**Time** 3HR
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
