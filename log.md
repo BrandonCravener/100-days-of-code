@@ -20,3 +20,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 2: June 11th, 2017
+
+**Today's Progress**: Made wave effect change with theme, fixed folder creation trigger.
+
+**Thoughts** Getting even closer to releasing the full GUI version!
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
