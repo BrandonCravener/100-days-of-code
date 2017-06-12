@@ -31,3 +31,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 3: June 12th, 2017
+
+**Today's Progress**: Fixed theme files, tested interface, started to prepare for release.
+
+**Thoughts** 
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
