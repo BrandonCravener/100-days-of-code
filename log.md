@@ -42,3 +42,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 3: June 12th, 2017
+
+**Today's Progress**: Added text color for each theme, added settings part to the tutorial.
+
+**Thoughts** I should really have made a theme file generator!
+
+**Time** 1.25HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
