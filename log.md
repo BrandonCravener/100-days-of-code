@@ -43,7 +43,7 @@
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
 
-### Day 3: June 12th, 2017
+### Day 4: June 13th, 2017
 
 **Today's Progress**: Added text color for each theme, added settings part to the tutorial.
 
