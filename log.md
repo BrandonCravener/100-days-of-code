@@ -53,3 +53,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 5: June 14th, 2017
+
+**Today's Progress**: Started to finish writing test scripts.
+
+**Thoughts** Do I really need test scripts.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
