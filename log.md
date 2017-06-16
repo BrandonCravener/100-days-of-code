@@ -64,3 +64,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 6: June 15th, 2017
+
+**Today's Progress**: Lots of testing and FIXED THEMES AGAIN!
+
+**Thoughts** Sometimes I think the theme feature hates me.
+
+**Time** 1.5HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
