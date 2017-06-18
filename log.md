@@ -75,3 +75,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 7: June 17th, 2017
+
+**Today's Progress**: Just started the projects need to get started!
+
+**Thoughts** I need to stop using NodeJS for all of my projects.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [WebFileAccess](https://github.com/BrandonCravener/WebFileAccess)
