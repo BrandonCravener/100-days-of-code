@@ -86,3 +86,14 @@
 
 **Link(s) to work**
 1. [WebFileAccess](https://github.com/BrandonCravener/WebFileAccess)
+
+### Day 8: June 18th, 2017
+
+**Today's Progress**: Need to stop experimenting and just start.
+
+**Thoughts** I need to have more standard package choices.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [WebFileAccess](https://github.com/BrandonCravener/WebFileAccess)
