@@ -97,3 +97,14 @@
 
 **Link(s) to work**
 1. [WebFileAccess](https://github.com/BrandonCravener/WebFileAccess)
+
+### Day 9: June 19th, 2017
+
+**Today's Progress**: Tried to get folder creation testing to work and app manually.
+
+**Thoughts** I really don't like writing testing scripts.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
