@@ -108,3 +108,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 10: June 20th, 2017
+
+**Today's Progress**: Started the app and almost completly completed base GUI code.
+
+**Thoughts** I hope it wont take too long to re-write the code for ionic. Also this is my first app using ionic.
+
+**Time** 1.5HR
+
+**Link(s) to work**
+1. [FineDLSorter-Mobile](https://github.com/BrandonCravener/FineDLSorter-Mobile)
