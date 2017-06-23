@@ -119,3 +119,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter-Mobile](https://github.com/BrandonCravener/FineDLSorter-Mobile)
+
+### Day 11: June 22th, 2017
+
+**Today's Progress**: Read a lot of the ionic framework documentation.
+
+**Thoughts** I am not familiar with angular js 2 which is a key thing to know for build apps with the ionic framework.
+
+**Time** 2HR
+
+**Link(s) to work**
+1. [FineDLSorter-Mobile](https://github.com/BrandonCravener/FineDLSorter-Mobile)
