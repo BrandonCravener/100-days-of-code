@@ -130,3 +130,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter-Mobile](https://github.com/BrandonCravener/FineDLSorter-Mobile)
+
+### Day 12: June 24th, 2017
+
+**Today's Progress**: Added the main functionality of the project.
+
+**Thoughts** Its getting hard to work on only open source projects for 100 days of code.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [Message-Encoder](https://github.com/BrandonCravener/Message-Encoder)
