@@ -141,3 +141,14 @@
 
 **Link(s) to work**
 1. [Message-Encoder](https://github.com/BrandonCravener/Message-Encoder)
+
+### Day 13: June 26th, 2017
+
+**Today's Progress**: Added interactive menu with the prompt package.
+
+**Thoughts** It feel like this little project is almost complete maybe i'll add a GUI later.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [Message-Encoder](https://github.com/BrandonCravener/Message-Encoder)
