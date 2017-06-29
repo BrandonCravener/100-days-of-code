@@ -152,3 +152,14 @@
 
 **Link(s) to work**
 1. [Message-Encoder](https://github.com/BrandonCravener/Message-Encoder)
+
+### Day 14: June 28th, 2017
+
+**Today's Progress**: Added basic functionality of the snake game I think.
+
+**Thoughts** I am starting to really like the HTML canvas.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [Another Snake Game?](https://codepen.io/BrandonCravener/full/zzPgbY/)
