@@ -163,3 +163,14 @@
 
 **Link(s) to work**
 1. [Another Snake Game?](https://codepen.io/BrandonCravener/full/zzPgbY/)
+
+### Day 15: June 30th, 2017
+
+**Today's Progress**: Added the framework for the bot.
+
+**Thoughts** I like NodeJS way too much.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
