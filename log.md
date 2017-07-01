@@ -166,7 +166,7 @@
 
 ### Day 15: June 30th, 2017
 
-**Today's Progress**: Added the framework for the bot.
+**Today's Progress**: Added the base for the bot.
 
 **Thoughts** I like NodeJS way too much.
 
