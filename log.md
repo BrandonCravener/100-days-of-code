@@ -174,3 +174,14 @@
 
 **Link(s) to work**
 1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
+
+### Day 16: July 2nd, 2017
+
+**Today's Progress**: Added the banned keywords feature and fixed time command.
+
+**Thoughts** I need to keep in mind discord.js uses promises.
+
+**Time** 2HRS
+
+**Link(s) to work**
+1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
