@@ -173,7 +173,7 @@
 **Time** 1HR
 
 **Link(s) to work**
-1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
+1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
 
 ### Day 16: July 2nd, 2017
 
@@ -184,7 +184,7 @@
 **Time** 2HRS
 
 **Link(s) to work**
-1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
+1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
 
 ### Day 17: July 3rd, 2017
 
@@ -195,4 +195,4 @@
 **Time** 1.5HRS
 
 **Link(s) to work**
-1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
+1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
