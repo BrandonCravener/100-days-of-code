@@ -185,3 +185,14 @@
 
 **Link(s) to work**
 1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
+
+### Day 17: July 3rd, 2017
+
+**Today's Progress**: Added more logging for events, added pruge command.
+
+**Thoughts** Lots and lots of events to log.
+
+**Time** 1.5HRS
+
+**Link(s) to work**
+1. [KloserDiscord](https://github.com/BrandonCravener/KloserDiscord)
