@@ -192,7 +192,18 @@
 
 **Thoughts** Lots and lots of events to log.
 
-**Time** 1.5HRS
+**Time** 1.5HR
+
+**Link(s) to work**
+1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
+
+### Day 18: July 5th, 2017
+
+**Today's Progress**: Added more to the warn feature.
+
+**Thoughts** I could have implimented warns more but its not finished yet so.
+
+**Time** 1HR
 
 **Link(s) to work**
 1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
