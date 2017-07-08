@@ -207,3 +207,14 @@
 
 **Link(s) to work**
 1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
+
+### Day 19: July 7th, 2017
+
+**Today's Progress**: Moved over to electron forge logger now automatically creates log folder.
+
+**Thoughts** I need to get Travis CI configured correctly.
+
+**Time** 2HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
