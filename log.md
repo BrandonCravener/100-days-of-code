@@ -218,3 +218,14 @@
 
 **Link(s) to work**
 1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
+
+### Day 20: July 9th, 2017
+
+**Today's Progress**: Improved warn feature.
+
+**Thoughts** The command setup is messy.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
