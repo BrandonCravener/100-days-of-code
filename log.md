@@ -229,3 +229,14 @@
 
 **Link(s) to work**
 1. [CloserDiscord](https://github.com/BrandonCravener/CloserDiscord)
+
+### Day 21: July 11th, 2017
+
+**Today's Progress**: Lots of playing around with Travis CI still need to get it figured out.
+
+**Thoughts** I need to get more familiar with Travis CI.
+
+**Time** 1HR
+
+**Link(s) to work**
+1. [FineDLSorter](https://github.com/BrandonCravener/FineDLSorter)
