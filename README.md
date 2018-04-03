@@ -1,6 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
 I've tried to keep most of my work open source.
+I have deleted some of the repositories while cleaning up my account.
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
